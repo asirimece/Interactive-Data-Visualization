@@ -16,6 +16,8 @@ The repository covers multiple core aspects of modern data visualization and vis
 - Interactive legends, hover tools, panning, and zooming
 - Export of interactive visualizations to standalone HTML
 
+![Grouped Bar Chart Preview](assets/grouped_bar_chart_preview.png)
+
 ### 2. High-Dimensional Data Exploration
 - Dimensionality reduction using Principal Component Analysis (PCA)
 - Clustering in reduced feature spaces
@@ -24,11 +26,15 @@ The repository covers multiple core aspects of modern data visualization and vis
 - Lasso-based selection and coordinated updates across plots
 `plot.html` contains a standalone interactive plot to be opened locally on a browser.
 
+![Candlestick Chart Preview](assets/candlestick_chart_preview.png)
+
 ### 3. Interactive Visualization Applications
 - Bokeh server–based visualization apps
 - Widget-driven interaction (Select widgets, sliders, buttons)
 - Event-driven callbacks for user interaction
 - Coordinated multi-view layouts
+
+![PCA Visual Analytics Preview](assets/pca_visual_analytics_preview.png)
 
 ### 4. Geospatial and Animated Visual Analytics
 - Interactive geographic visualizations of aggregated company data
@@ -36,6 +42,8 @@ The repository covers multiple core aspects of modern data visualization and vis
 - Tap-based selection with linked subplots
 - Slider-based filtering of data
 - Time-based animation using periodic callbacks
+
+![Geospatial Map Preview](assets/geospatial_map_preview.png)
 
 ---
 
